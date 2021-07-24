@@ -1,0 +1,4 @@
+#Sat Jul 24 17:06:42 BRT 2021
+base.0=E\:\\desktop\\desenv-app2-202106m-master\\1.1-projeto_1-calculadora_simples\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
